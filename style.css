@@ -657,9 +657,9 @@ a {
     color: #575757!important;
 }
 
-/* .container {
-    max-width: 1000px;
-} */
+.container {
+    /* max-width: 1000px; */
+}
 
 .hero-bloc-text {
     font-size: 38px;
